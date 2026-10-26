@@ -1,0 +1,8 @@
+{
+  "name": "hazelchat",
+  "version": "1.0.0",
+  "description": "Check and improve your Hazelchat website agent: see what visitors asked, find questions it could not answer, test answers against your draft and add missing answers for your review. Nothing is published from Gemini CLI.",
+  "mcpServers": {
+    "hazelchat": { "httpUrl": "https://app.hazelchat.co/mcp" }
+  }
+}
